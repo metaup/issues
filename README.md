@@ -1,2 +1,2 @@
 # issues
-Public issues on meta
+Public issues on [meta](https://meta.ga)
